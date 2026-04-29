@@ -59,7 +59,7 @@ The three modality agents are logically independent. In the Colab notebook they 
 
 ## 3. Repository structure
 
-Recommended GitHub layout:
+
 
 ```text
 TBGuard/
@@ -338,7 +338,7 @@ Upload 1–3 X-ray Images
 Run All 3 Demo Patients
 ```
 
-Use the public Gradio link for your demo if needed.
+Use the public Gradio link for demo if needed.
 
 
 
@@ -434,7 +434,6 @@ demo_images/
 rag_sources/
 ```
 
-Do not include private API keys in GitHub.
 
 
 
