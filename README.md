@@ -2,6 +2,8 @@
 
 TB-Guard is an educational multimodal decision-support prototype for tuberculosis (TB). It combines a chest X-ray classifier, a clinical tabular risk model, a WHO-catalogue-style genomic resistance expert, FAISS retrieval-augmented generation (RAG), LangGraph orchestration, LLM reviewers, and a Gradio interface.
 
+I have not tested this since long time but you can directly try the deployement in the hugging face space: [TB_Multimodal](https://huggingface.co/spaces/aerofa24/tb-guard-multimodal)
+
 > **Important:** This project is not a medical diagnostic system. It is a class/research prototype. Any TB or resistance interpretation must be confirmed by qualified clinicians, radiology review, microbiological testing, molecular testing, culture, and drug-susceptibility testing (DST).
 
 
